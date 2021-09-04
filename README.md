@@ -3,4 +3,11 @@
 
  Realizando minhas primeiras alterações
  
- Realizando novo teste, com alteração no site
+ Inserindo tabelas:
+ 
+ Nome | Idade | Sexo
+ ---|---|---
+ Luciano | 46 | M
+ Elaine | 42 | F
+ Lavinya | 14 | F
+ 
