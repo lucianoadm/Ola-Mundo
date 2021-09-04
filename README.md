@@ -41,4 +41,10 @@ __Em Deus nós confiamos; todos os outros devem trazer dados.__
 
 Grande frase!!!
 
+todo esse conteúdo é graças ao site curso em video, do prof. @gustavoguanabara 
+
+[link](https://github.com/gustavoguanabara)
+
+só agradece!!!
+
 
