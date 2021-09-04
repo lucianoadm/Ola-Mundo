@@ -11,3 +11,12 @@
  Elaine | 42 | F
  Lavinya | 14 | F
  
+ 
+ Destacando algo no texto:
+ 
+ Estou estudando a `Linguagem Python`
+ 
+ Destacando um código criado:
+ 
+
+ 
