@@ -5,11 +5,11 @@
  
 ### Inserindo tabelas:
  
-Nome | Idade | Sexo
----|---|---
-Luciano | 46 | M
-Elaine | 42 | F
-Lavinya | 14 | F
+Cidade | Estado 
+---|---
+Sâo Paulo | SP
+Belo Horizonte | MG
+Curitiba | PR
  
  
 Destacando algo no texto:
